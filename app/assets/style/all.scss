@@ -1,0 +1,10 @@
+@import "bootstrap/functions";
+@import "helper/variables";
+@import "bootstrap/mixins";
+@import "bootstrap/bootstrap.scss";
+
+@import "layout/navbar.scss";
+@import "components/banner.scss";
+@import "helper/base.scss";
+@import "components/index.scss";
+@import "layout/footer.scss";
