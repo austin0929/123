@@ -1,0 +1,1 @@
+{"version":3,"sources":["helper/base.scss"],"names":[],"mappings":"AAAA;EACI,gBAAgB,EAAA;;AAEpB;EACI,gCAAgC,EAAA","file":"base.css","sourcesContent":["ul li{\r\n    list-style: none;\r\n}\r\na{\r\n    text-decoration: none !important;\r\n}"]}

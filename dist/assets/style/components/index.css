@@ -1,0 +1,147 @@
+.product {
+  margin-top: -180px; }
+
+.product img {
+  width: 75%; }
+
+.product-img {
+  background-image: url(https://images.unsplash.com/photo-1531310197839-ccf54634509e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2002&q=80);
+  height: 340px;
+  background-size: cover;
+  background-position: center center; }
+
+.product-bg {
+  background-color: rgba(0, 0, 0, 0);
+  height: 340px; }
+  .product-bg a {
+    text-align: center;
+    line-height: 340px;
+    opacity: 0; }
+
+.product-bg:hover {
+  background-color: rgba(0, 0, 0, 0.3); }
+  .product-bg:hover a {
+    opacity: 1; }
+
+.underline {
+  position: relative; }
+
+.underline::after {
+  content: "";
+  display: block;
+  position: absolute;
+  left: 45%;
+  bottom: -10px;
+  background: #B946AD;
+  width: 10%;
+  height: 5px; }
+
+.city-banner {
+  background-image: url(https://images.unsplash.com/photo-1449157291145-7efd050a4d0e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80);
+  background-position: center center;
+  background-size: cover; }
+
+.city-view {
+  background-size: cover;
+  background-position: center center; }
+
+.city-img {
+  background-image: url(https://images.unsplash.com/photo-1422393462206-207b0fbd8d6b?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80);
+  height: 230px; }
+
+.city-img2 {
+  background-image: url(https://images.unsplash.com/photo-1519999482648-25049ddd37b1?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=926&q=80);
+  height: 230px; }
+
+.city-img3 {
+  background-image: url(https://images.unsplash.com/photo-1417716146732-918825b83fa0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1950&q=80);
+  height: 230px; }
+
+.city-img4 {
+  background-image: url(https://images.unsplash.com/photo-1462007895615-c8c073bebcd8?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80);
+  height: 230px; }
+
+.city-img5 {
+  background-image: url(https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1050&q=80);
+  height: 230px; }
+
+.city-img6 {
+  background-image: url(https://images.unsplash.com/photo-1494522855154-9297ac14b55f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80);
+  height: 230px; }
+
+.city-bg {
+  height: 230px;
+  background-color: rgba(212, 99, 212, 0); }
+  .city-bg a {
+    line-height: 230px;
+    opacity: 0; }
+
+.city-bg:hover {
+  background-color: rgba(212, 99, 212, 0.3); }
+  .city-bg:hover a {
+    opacity: 0.8; }
+
+.underline2 {
+  position: relative; }
+
+.underline2::after {
+  content: "";
+  display: block;
+  position: absolute;
+  left: 45%;
+  bottom: -10px;
+  background: #B946AD;
+  width: 10%;
+  height: 5px; }
+
+.car-img {
+  background-image: url(https://images.unsplash.com/photo-1503376780353-7e6692767b70?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80);
+  height: 300px;
+  position: relative; }
+
+.car-bg {
+  height: 300px;
+  background-color: rgba(212, 99, 212, 0);
+  position: relative; }
+  .car-bg a {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    background: white; }
+
+.car-bg:hover {
+  background-color: rgba(212, 99, 212, 0.3);
+  -webkit-transition: 0.5s;
+  -o-transition: 0.5s;
+  transition: 0.5s; }
+  .car-bg:hover a {
+    background-color: rgba(212, 99, 212, 0.3);
+    color: white !important; }
+
+.Massege {
+  background-image: url(https://images.unsplash.com/photo-1471922694854-ff1b63b20054?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1052&q=80);
+  background-size: cover;
+  background-position: center center; }
+  .Massege p {
+    background: lightgray; }
+
+.userman {
+  background-image: url(https://images.unsplash.com/photo-1548372290-8d01b6c8e78c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80);
+  height: 260px;
+  background-position: center center;
+  background-size: cover; }
+
+.user-bg {
+  background-color: rgba(212, 99, 212, 0);
+  height: 260px; }
+  .user-bg a {
+    line-height: 260px;
+    opacity: 0; }
+
+.user-bg:hover {
+  background-color: rgba(212, 99, 212, 0.3); }
+  .user-bg:hover a {
+    opacity: 1; }
+
+/*# sourceMappingURL=index.css.map */
